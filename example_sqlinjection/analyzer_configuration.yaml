@@ -1,0 +1,6 @@
+Sources:
+  - Type: Authentication 
+    Field: Password 
+Sinks:
+  - Package: database/sql 
+    Method: Query 
