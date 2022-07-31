@@ -5,8 +5,7 @@ Presented at GopherConEU 2022 :green_heart: with these [slides](https://akwicker
 ## Examples
 
 To test [Go Flow Leeve](https://github.com/google/go-flow-levee), I created two minimal working examples that cover potential vulnerabilities: Leaking of sensitive information (CWE-522) and SQL injections (CWE-89). 
-The configuration to execute the analysis and the output I produced is available in the respective README files ([README CWE-522](./example_sensitiveinformation/README.md) and [README CWE-89](./example_sqlInjection/README.md`w
-))
+The configuration to execute the analysis and the output I produced is available in the respective README files ([README CWE-522](./example_sensitiveInformation/README.md) and [README CWE-89](./example_sqlinjection/README.md))
 
 ## More Ressources
 
